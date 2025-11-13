@@ -163,4 +163,3 @@ Kebanyakan proyek kami menggunakan lisensi open source. Silakan periksa file `LI
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> *Mari bersama-sama membangun masa depan digital yang lebih baik!* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
 
 </div>
-
