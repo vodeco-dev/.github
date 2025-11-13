@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="40" height="40" /> VODECO DIGITAL MEDIATAMA
+# 🚀 VODECO DIGITAL MEDIATAMA
 
 ### 🚀 *Membangun Solusi Digital yang Inovatif untuk Masa Depan*
 
@@ -33,7 +33,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="25" height="25" /> Tentang Kami
+## ✨ Tentang Kami
 
 <div align="center">
 
@@ -43,11 +43,11 @@
 
 **Vodeco Digital Mediatama** adalah perusahaan teknologi yang berfokus pada pengembangan solusi digital inovatif. Kami berkomitmen untuk menciptakan produk dan layanan berkualitas tinggi yang memberikan nilai tambah bagi klien dan pengguna kami.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Comet.png" alt="Comet" width="20" height="20" /> Visi
+### 🌟 Visi
 
 Menjadi perusahaan teknologi terdepan yang mengubah cara bisnis dan masyarakat berinteraksi dengan teknologi digital.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="20" height="20" /> Misi
+### 🌍 Misi
 
 - ✨ Mengembangkan solusi digital yang inovatif dan user-friendly
 - 🎯 Memberikan layanan berkualitas tinggi dengan standar profesional
@@ -56,9 +56,9 @@ Menjadi perusahaan teknologi terdepan yang mengubah cara bisnis dan masyarakat b
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Tech Stack
+## ⚙️ Tech Stack
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="20" height="20" /> Frontend
+### 🎨 Frontend
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Menjadi perusahaan teknologi terdepan yang mengubah cara bisnis dan masyarakat b
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Server.png" alt="Server" width="20" height="20" /> Backend
+### 🖥️ Backend
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Menjadi perusahaan teknologi terdepan yang mengubah cara bisnis dan masyarakat b
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="20" height="20" /> Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Menjadi perusahaan teknologi terdepan yang mengubah cara bisnis dan masyarakat b
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="25" height="25" /> Proyek Terbaru
+## 🔥 Proyek Terbaru
 
 <div align="center">
 
@@ -111,21 +111,21 @@ Kami sedang mengerjakan berbagai proyek menarik. Jelajahi repository kami untuk 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Kolaborasi
+## 🤝 Kolaborasi
 
 <div align="center">
 
 | | |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand gestures/Handshake.png" alt="Handshake" width="30" height="30" /> **Kontribusi** | Kami menyambut kontribusi dari komunitas!<br/>[📖 Panduan Kontribusi](../CONTRIBUTING.md) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check Mark.png" alt="Check Mark" width="30" height="30" /> **Kode Etik** | Semua kontributor diharapkan mengikuti<br/>[📋 Code of Conduct](../CODE_OF_CONDUCT.md) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Locked" width="30" height="30" /> **Keamanan** | Laporkan kerentanan keamanan<br/>[🔒 Security Policy](../SECURITY.md) |
+| 🤝 **Kontribusi** | Kami menyambut kontribusi dari komunitas!<br/>[📖 Panduan Kontribusi](../CONTRIBUTING.md) |
+| ✅ **Kode Etik** | Semua kontributor diharapkan mengikuti<br/>[📋 Code of Conduct](../CODE_OF_CONDUCT.md) |
+| 🔒 **Keamanan** | Laporkan kerentanan keamanan<br/>[🔒 Security Policy](../SECURITY.md) |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> Kontak
+## ✉️ Kontak
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Kami sedang mengerjakan berbagai proyek menarik. Jelajahi repository kami untuk 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" /> Lisensi
+## 📜 Lisensi
 
 Proyek kami menggunakan berbagai lisensi sesuai kebutuhan. Silakan periksa file `LICENSE` di setiap repository untuk detail lebih lanjut.
 
@@ -145,7 +145,7 @@ Proyek kami menggunakan berbagai lisensi sesuai kebutuhan. Silakan periksa file 
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="30" height="30" /> Dibuat dengan ❤️ oleh Tim Vodeco Digital Mediatama <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="30" height="30" />
+### ✨ Dibuat dengan ❤️ oleh Tim Vodeco Digital Mediatama ✨
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
@@ -160,6 +160,6 @@ Proyek kami menggunakan berbagai lisensi sesuai kebutuhan. Silakan periksa file 
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> *Mari bersama-sama membangun masa depan digital yang lebih baik!* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
+🚀 *Mari bersama-sama membangun masa depan digital yang lebih baik!* 🚀
 
 </div>
