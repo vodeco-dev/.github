@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Diskusi Umum
+    url: https://github.com/vodeco/.github/discussions
+    about: Ajukan pertanyaan atau diskusikan ide dengan komunitas
+  - name: 📧 Email Support
+    url: mailto:hello@vodeco.co.id
+    about: Hubungi tim support melalui email
+  - name: 🔒 Laporan Keamanan
+    url: mailto:developer@vodeco.co.id
+    about: Laporkan kerentanan keamanan secara privat
+
