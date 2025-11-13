@@ -52,7 +52,7 @@ Menjadi perusahaan teknologi terdepan yang mengubah cara bisnis dan masyarakat b
 - ✨ Mengembangkan solusi digital yang inovatif dan user-friendly
 - 🎯 Memberikan layanan berkualitas tinggi dengan standar profesional
 - 🌱 Membangun ekosistem teknologi yang berkelanjutan
-- 🤝 Berkolaborasi dengan komunitas open source
+- 🤝 Berkolaborasi dengan mitra dan komunitas teknologi
 
 ---
 
@@ -139,7 +139,7 @@ Kami sedang mengerjakan berbagai proyek menarik. Jelajahi repository kami untuk 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" /> Lisensi
 
-Kebanyakan proyek kami menggunakan lisensi open source. Silakan periksa file `LICENSE` di setiap repository untuk detail lebih lanjut.
+Proyek kami menggunakan berbagai lisensi sesuai kebutuhan. Silakan periksa file `LICENSE` di setiap repository untuk detail lebih lanjut.
 
 ---
 
